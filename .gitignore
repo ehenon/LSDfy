@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Favorite live artists file
+artists.json
+
+# Jest coverage directory
+coverage
+
+# Build directory
+dist
+
+# VSCode settings file
+.vscode/
